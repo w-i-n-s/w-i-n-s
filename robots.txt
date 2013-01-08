@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://w-i-n-s.github.com/w-i-n-s/sitemap.xml 
